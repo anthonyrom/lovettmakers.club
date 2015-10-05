@@ -13,7 +13,7 @@ Current version hosted at [awro.xyz/makerspace](awro.xyz/makerspace).
 
 
 ### What does it draw from the template?
-As you can see, if you open [awro.xyz/makerspace/](awro.xyz/makerspace) and http://tympanus.net/Freebies/Boxify/ up and compare, they are very similar. Peter Finlan did an excellent job making this template. He used libraries and frameworks such as animate.css, retina.js, Modernizr, Bootstrap, and more. By understanding the HTML, CSS, and JavaScript at the foundatin of the template, I was able to make the changes I wanted to make.
+As you can see, if you open [awro.xyz/makerspace/](awro.xyz/makerspace) and http://tympanus.net/Freebies/Boxify/ up and compare, they are very similar. Peter Finlan did an excellent job making this template. He used libraries and frameworks such as animate.css, retina.js, Modernizr, Bootstrap, and more. By understanding the HTML, CSS, and JavaScript at the foundation of the template, I was able to make the changes I wanted to make.
 
 ### So what's different?
 Here is an exhaustive list of changes:
