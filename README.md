@@ -18,7 +18,7 @@ As you can see, if you open [awro.xyz/makerspace/](awro.xyz/makerspace) and http
 ### So what's different?
 Here is an exhaustive list of changes:
 
-- Boxify logo has been replaced with Makers Club log
+- Boxify logo has been replaced with Makers Club logo
 
 - Blue color used throughout site replaced with teal (#009688)
 
