@@ -8,10 +8,6 @@ Current version hosted at [awro.xyz/makerspace](awro.xyz/makerspace).
 #### Top of page:
 ![makerspace](https://github.com/anthonyrom/makerspace/blob/master/github-screenshots/makerspace.png)
 
-#### Next section:
-![makerspace1](https://github.com/anthonyrom/makerspace/blob/master/github-screenshots/makerspace1.png)
-
-
 ### What does it draw from the template?
 As you can see, if you open [awro.xyz/makerspace/](awro.xyz/makerspace) and http://tympanus.net/Freebies/Boxify/ up and compare, they are very similar. Peter Finlan did an excellent job making this template. He used libraries and frameworks such as animate.css, retina.js, Modernizr, Bootstrap, and more. By understanding the HTML, CSS, and JavaScript at the foundation of the template, I was able to make the changes I wanted to make.
 
@@ -49,4 +45,6 @@ For example:
 
 - In the image showcase section towards the bottom, I have removed the lightbox feature found in Boxify. Let me know if you see any left over lightbox code!
 
-
+### Current to-do list:
+- Make and upload a favicon that supports all devices/browsers/resolutions
+- Let me know of more changes you would like to see!
