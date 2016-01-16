@@ -1,12 +1,12 @@
 # makerspace
 The Lovett Makers Club website, created using the [Boxify template by Peter Finlan](http://tympanus.net/codrops/2015/01/27/freebie-boxify-one-page-website-template/). This website was long overdue: clubs at Lovett are required to have a website including some information about the club. For a shameful amount of time, we left ours as a simple index.html with a background color and some centered text, with a link to sign up on a Google Form. Everything has changed.
 
-Current version hosted at [awro.xyz/makerspace](awro.xyz/makerspace).
+Current version hosted at [lovettmakers.club](http://lovettmakers.club).
 
 ## Screenshots
 
 #### Top of page:
-![makerspace](https://github.com/anthonyrom/makerspace/blob/master/github-screenshots/makerspace.png)
+![makerspace](https://github.com/anthonyrom/lovettmakers.club/blob/master/github-screenshots/makerspace.png)
 
 ### What does it draw from the template?
 As you can see, if you open [awro.xyz/makerspace/](awro.xyz/makerspace) and http://tympanus.net/Freebies/Boxify/ up and compare, they are very similar. Peter Finlan did an excellent job making this template. He used libraries and frameworks such as animate.css, retina.js, Modernizr, Bootstrap, and more. By understanding the HTML, CSS, and JavaScript at the foundation of the template, I was able to make the changes I wanted to make.
