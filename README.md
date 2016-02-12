@@ -1,4 +1,4 @@
-# makerspace
+# lovettmakers.club
 The Lovett Makers Club website, created using the [Boxify template by Peter Finlan](https://github.com/peterfinlan/Boxify). This website was long overdue: clubs at Lovett are required to have a website including some information about the club. For a shameful amount of time, we left ours as a simple index.html with a background color and some centered text, with a link to sign up on a Google Form. Everything has changed.
 
 Current version hosted at [lovettmakers.club](http://lovettmakers.club).
